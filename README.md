@@ -4,7 +4,7 @@
 
 **Pendulum ni Bathala** (Bathala’s Pendulum) is an electromagnetic pendulum designed to swing indefinitely using electromagnetic pulses until the lithium ion battery is drained. By gluing together principles of **electromagnetism**, this project demonstrates how energy can be transferred efficiently to keep the pendulum in constant motion without any manual force.  
 
-This project serves as both an **educational tool** for understanding electromagnetism (primarily Faraday's 1s t Law) and a **practical demonstration** of how electromagnetic forces can sustain motion with minimal energy loss.  
+This project serves as both an **educational tool** for understanding electromagnetism (primarily Faraday's 1st Law) and a **practical demonstration** of how electromagnetic forces can sustain motion with minimal energy loss.  
 
 ## How It Works  
 
@@ -32,6 +32,9 @@ The system consists of the following components:
 ## Circuit Diagram  
 
 *(Include a simple schematic of the circuit here.)*  
+
+## CAD Drawing
+
 
 ## Assembly Instructions  
 
